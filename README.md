@@ -12,3 +12,7 @@ Next notebook:
 
 Post or article ideas: 
 * https://www.youtube.com/watch?v=VrdnBxx8BBI 
+
+
+#### Explore
+* https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python 
